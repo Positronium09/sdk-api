@@ -47,7 +47,7 @@ api_name:
 
 ## -description
 
-Creates an <a href="/windows/win32/api/d2d1/nn-d2d1-id2d1bitmapbrush">ID2D1BitmapBrush</a> from the specified bitmap.
+Creates a Direct2D bitmap from a pointer to in-memory source data.
 
 ## -parameters
 
